@@ -717,7 +717,7 @@ https://cdn.castmax.live/hls/streamhd419.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn.castmax.live/hls/streamhd130.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PxSM1BQt/tv-station-sky-sport-arena-354-1.png" group-title="LIVE EVENT",SKY SPORTS 2 IT
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PxSM1BQt/tv-station-sky-sport-arena-354-1.png" group-title="SPORTS",SKY SPORTS ARENA IT
 #EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn.castmax.live/hls/streamhd462.m3u8
@@ -811,7 +811,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn.castmax.live/hls/streamhd49.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/prTGc4QT/Round-Photo-Aug262022-010444.png" group-title="SPORTS",SPORT TV 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vHpq3gCC/Round-Photo-Aug212022-212526.png" group-title="SPORTS",SPORT TV 2
 #EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn.castmax.live/hls/streamhd50.m3u8
